@@ -1,3 +1,4 @@
+//boring cuz no color :(((( made with notepad++
 
 public class Exer1_grueso {
        public static void main (String[] args){
